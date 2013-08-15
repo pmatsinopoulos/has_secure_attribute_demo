@@ -39,7 +39,7 @@ GEM
     erubis (2.7.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
-    has_secure_attribute (0.1.1)
+    has_secure_attribute (0.2.0)
       activerecord
       bcrypt-ruby (~> 3.0.0)
     hike (1.2.3)
